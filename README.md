@@ -29,7 +29,7 @@ Kết quả test
 
 Ảnh test:  
 ![Register Success](public/results/register_success.png)  
-![Mongo Register](public/results/mongo_register.png)  
+![Mongo Register](public/results/mongo_register.png)
 
 ---
 
