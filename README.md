@@ -66,7 +66,7 @@ Kết quả test
 - Chưa login → 401 Unauthorized  
 ![Profile No Session](public/results/profile_no_session.png)
 
-- Đã login → trả về thông tin user "Welcome user1!"  
+- Đã login → trả về thông tin user  
 ![Profile With Session](public/results/profile_with_session.png)
 
 ---
